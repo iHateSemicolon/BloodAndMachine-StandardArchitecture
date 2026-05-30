@@ -9,7 +9,7 @@
 rig 를 판단하는 것이 아닌 캐릭터들 마다 rootpart 에 있는 데미지 박스에 닿았는가 여부를 판단 후 데미지 입히기 -> 판정 정확도 높아짐
 
 <details>
-<summary><b> ####조건 </b></summary>
+<summary><b> 조건 </b></summary>
 - 같은 팀 아님 여부 
 - PartInPart 함수 사용
 - 모듈 이용(모든 캐릭터가 동일하게 해야해서)
