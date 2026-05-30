@@ -1,2 +1,5 @@
-# -BloodAndMachine--StandardArchitecture
-Roblox BloodAndMachine script architecture
+# Task
+- 모듈 스크립트 만들기
+- 스크립트 확정 짓기
+- 테스트 ㅈㅂ 성공하기
+- 깃허브 올리깅 
