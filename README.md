@@ -1,4 +1,4 @@
-## 🎮 About The Game
+## 🎮 About The Game (In progress)
 
 **Machine and Blood** is an asymmetrical horror-survival multiplayer game built on Roblox, inspired by games like *Dead by Daylight*. 
 
